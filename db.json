@@ -1,5 +1,31 @@
 {
-  "inCart": [],
-  "deferred": [],
+  "inCart": [
+    {
+    "key": "1",
+    "price": 120,
+    "quantity": 1,
+    "text": "Товар 1"
+  },
+  {
+    "key": "2",
+    "price": 220,
+    "quantity": 1,
+    "text": "Товар 2"
+  },
+  {
+    "key": "3",
+    "price": 320,
+    "quantity": 1,
+    "text": "Товар 3"
+  }
+  ],
+  "deferred": [
+    {
+    "key": "1",
+    "price": 120,
+    "quantity": 1,
+    "text": "Товар 1"
+  }
+  ],
   "orders": []
 }
